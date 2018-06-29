@@ -85,16 +85,24 @@ public class forloopgauntlet {
 //		}
 		
 		
-		int n=1;
-		for(int g=0;g<6;g++) {
-			for(int j=n; j<n+n;j++) {
-				
-					System.out.print("* ");
-				
-				
-			}
-			n+=1;
-			System.out.println();
+//		int n=1;
+//		for(int g=0;g<6;g++) {
+//			for(int j=n; j<n+n;j++) {
+//				
+//					System.out.print("* ");
+//				
+//				
+//			}
+//			n+=1;
+//			System.out.println();
+//		}
+		
+		
+		for(int i=0;i<101;i++) {
+			
+			System.out.println(100-i);
+			
+			
 		}
 		
 		
